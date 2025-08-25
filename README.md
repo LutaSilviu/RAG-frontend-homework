@@ -1,4 +1,4 @@
-# Next.js App — README that actually works
+# RAG-frontend-project
 
 A practical, no‑fluff guide to get this project running locally and in production.
 
